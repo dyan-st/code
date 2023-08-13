@@ -1,4 +1,4 @@
-# code (Python)
+# Automation code (Python)
 Code projects to improve your workflow &amp; automate repetitive tasks!
 
 # SampleTitleScrape
